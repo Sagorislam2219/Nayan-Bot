@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Sagor",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "sagor-bot",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "278754422284374",
+    "278754422284374"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "278754422284374",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["278754422284374"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
